@@ -90,7 +90,7 @@ function Footer() {
                 <ul className="list-unstyled text-center mb-0">
                   <li>
                     <Link to="/">
-                      © 2024 <span>Manish Agrawat</span>. All Rights Reserved
+                      © 2025 <span>Anurag Jain</span>. All Rights Reserved
                     </Link>
                   </li>
                   <li>
